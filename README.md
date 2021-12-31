@@ -1,2 +1,2 @@
 # lianjiaenc
-链家http 请求中设计到nonce 加密算法还原
+链家 http 请求中用到的 nonce 加密算法还原
